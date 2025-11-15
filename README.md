@@ -19,7 +19,7 @@ UserViewModel є посередником між View та Model.
 ### View
 
 UserView реагує на зміну властивостей у ViewModel.
-Коли ViewModel генерує нове привітання — View автоматично оновлюється.
+Коли ViewModel генерує нове привітання - View автоматично оновлюється.
 
 ## Результат
 ![result](result.png)
